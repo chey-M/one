@@ -786,7 +786,7 @@
             },
             {
                 id: 4,
-                title: 'Nike Air Max 270',
+                title: 'sparx Air Max 270',
                 price: 150,
                 rating: 4,
                 reviews: 53,
